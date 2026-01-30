@@ -15,11 +15,17 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=&fontSize=0&animation=twinkling&fontAlignY=40" width="100%"/>
 
+<table align="center">
+<tr><td>
+
 ```ascii
 [SYSTEM STATUS]  ▰▰▰▰▰▰▰▰▰▱  90%  ⚡ ONLINE
 [COFFEE LEVEL]   ▰▰▰▰▰▰▱▱▱▱  60%  ☕ BREWING
 [DEBUG MODE]     ▰▰▰▰▰▰▰▰▰▰ 100%  🔍 ACTIVE
 ```
+
+</td></tr>
+</table>
 
 </div>
 
@@ -29,15 +35,25 @@
 
 ## 🎯 CURRENTLY IN THE LAB
 
+<table align="center">
+<tr><td>
+
 ```javascript
 const aravind = {
     status: "Building & Breaking Things",
-    currentlyVibing: ["Web3 Security", "Full-Stack Chaos", "Docker Magic"],
+    currentlyVibing: [
+        "Edge Cases & Corner Cases",
+        "Optimizing Time Complexity",
+        "Real-Time Web Applications"
+    ],
     workingOn: "Projects that shouldn't work... but do",
     funFact: "I debug with console.log() and I'm not ashamed",
     motto: "First I'll break your code, then I'll secure it 🛡️"
 };
 ```
+
+</td></tr>
+</table>
 
 </div>
 
@@ -91,6 +107,9 @@ const aravind = {
 
 ## 🎮 QUICK HITS
 
+<table align="center">
+<tr><td>
+
 ```python
 class Developer:
     def __init__(self):
@@ -105,6 +124,9 @@ me = Developer()
 me.say_hi()
 ```
 
+</td></tr>
+</table>
+
 <details>
 <summary>🎯 <b>What I'm All About</b></summary>
 
@@ -112,8 +134,7 @@ me.say_hi()
 
 ### I'm that developer who:
 
-🔥 **Builds** full-stack apps that scale  
-🛡️ **Breaks** into systems (ethically!) to secure them  
+🔥 **Builds** full-stack apps that scale    
 ⚡ **Deploys** with Docker because bare metal is so 2015  
 🧪 **Experiments** with Web3, blockchain, and smart contracts  
 🐛 **Debugs** like a detective hunting clues  
@@ -162,11 +183,18 @@ me.say_hi()
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%"/>
 
+<table align="center">
+<tr><td>
+
 ```
 ╔══════════════════════════════════════════════════════════════╗
 ║  "Talk is cheap. Show me the code." - Linus Torvalds         ║
 ╚══════════════════════════════════════════════════════════════╝
 ```
 
+</td></tr>
+</table>
+
 **⚡ Fun Fact:** Living life one console.log at a time 📟
+
 </div>
