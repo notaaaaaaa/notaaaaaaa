@@ -107,15 +107,17 @@ me.say_hi()
 
 <details>
 <summary>🎯 <b>What I'm All About</b></summary>
+
 <br>
 
-I'm that developer who:
-- 🔥 **Builds** full-stack apps that scale
-- 🛡️ **Breaks** into systems (ethically!) to secure them
-- ⚡ **Deploys** with Docker because bare metal is so 2015
-- 🧪 **Experiments** with Web3, blockchain, and smart contracts
-- 🐛 **Debugs** like a detective hunting clues
-- 🌐 **Connects** APIs, databases, and everything in between
+### I'm that developer who:
+
+🔥 **Builds** full-stack apps that scale  
+🛡️ **Breaks** into systems (ethically!) to secure them  
+⚡ **Deploys** with Docker because bare metal is so 2015  
+🧪 **Experiments** with Web3, blockchain, and smart contracts  
+🐛 **Debugs** like a detective hunting clues  
+🌐 **Connects** APIs, databases, and everything in between
 
 **Current Obsessions:** Cybersecurity automation, decentralized apps, making things faster
 
@@ -123,13 +125,14 @@ I'm that developer who:
 
 <details>
 <summary>💡 <b>Random Dev Confessions</b></summary>
+
 <br>
 
-- My code works perfectly... on my machine 🤷‍♂️
-- I comment my code like I'm leaving treasure maps for future me
-- CTRL+Z is my most-used shortcut (no shame)
-- I've turned "It works" into an art form
-- My debug strategy: console.log everything until something makes sense
+🖥️ My code works perfectly... on my machine 🤷‍♂️  
+🗺️ I comment my code like I'm leaving treasure maps for future me  
+⌨️ CTRL+Z is my most-used shortcut (no shame)  
+🎨 I've turned "It works" into an art form  
+🔍 My debug strategy: console.log everything until something makes sense
 
 </details>
 
@@ -165,6 +168,5 @@ I'm that developer who:
 ╚══════════════════════════════════════════════════════════════╝
 ```
 
-**⚡ Fun Fact:** This README has more lines than my first production app 😅
-
+**⚡ Fun Fact:** Living life one console.log at a time 📟
 </div>
